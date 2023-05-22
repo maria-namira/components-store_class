@@ -1,3 +1,10 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/p8jenvx48i5w7129/branch/master?svg=true)](https://ci.appveyor.com/project/maria-namira/components-store_class/branch/master)
+
+#### Deployment:  <a href="https://maria-namira.github.io/components-store_class/">Github Pages</a>
+
+#### Backend:  <a href="https://github.com/maria-namira/components-store_class_backend">Repository</a>
+
+
 Страница интернет-магазина
 Необходимо создать React-компонент ShopItemClass (class-based компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией): Внешний вид страницы после реализации компонента
 
